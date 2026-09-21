@@ -24,6 +24,7 @@ report/
 ## Alcance de este scaffold
 
 - Mantener una carpeta por capítulo y subcarpetas por sección del índice.
+- Representar las secciones ampliables como subcarpetas numeradas con su Markdown principal.
 - Usar nombres ordenados, estables y compatibles con Markdown/GitHub.
 - Reservar `report/assets/` para evidencias visuales y diagramas versionables.
 - Mantener el historial con Conventional Commits y commits firmados.
