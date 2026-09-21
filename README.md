@@ -15,8 +15,9 @@ report/
 ├── 04-product-design/
 ├── 05-product-implementation-validation-deployment/
 ├── 90-conclusions/
-├── 91-bibliography/
-├── 92-annexes/
+├── 91-video-about-the-team/
+├── 92-bibliography/
+├── 93-annexes/
 └── assets/
 ```
 
@@ -38,4 +39,3 @@ El repositorio está inicialmente sobre `main`, según la decisión del equipo p
 ---
 
 Maintained by the Nexa team.
-

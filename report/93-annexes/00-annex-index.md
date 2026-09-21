@@ -1,0 +1,8 @@
+# Índice de anexos
+
+> Estado: esqueleto inicial; pendiente de redacción y validación.
+
+## Propósito
+
+Documentar esta sección según el índice del informe de Aplicaciones Web.
+
