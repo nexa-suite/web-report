@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+tmp/
+output/
+build/
+*.pdf
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+
