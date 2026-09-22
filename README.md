@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nexa-suite/api/main/docs/assets/nexa.svg" alt="Nexa" width="220" />
+
 # Nexa Web Report
 
 **Academic report and evidence repository for the Nexa Web course.**
 
-![Markdown](https://img.shields.io/badge/Markdown-Docs%20as%20Code-000000?style=flat-square&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-versioned%20evidence-F05032?style=flat-square&logo=git&logoColor=white) ![Status](https://img.shields.io/badge/status-structured%20baseline-64748B?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-Docs%20as%20Code-000000?style=flat-square&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-versioned%20evidence-F05032?style=flat-square&logo=git&logoColor=white) ![Academic evidence](https://img.shields.io/badge/status-structured%20baseline-64748B?style=flat-square) ![Latest Git tag](https://img.shields.io/github/v/tag/nexa-suite/web-report?sort=semver&style=flat-square&label=latest%20Git%20tag)
 
 [Report](./report) · [Documentation](./docs) · [Release notes](./docs/releases/) · [Scripts](./scripts)
 
@@ -62,8 +64,9 @@ Academic report and delivery evidence for Nexa Mobile.
 
 ### [Nexa Mobile](https://github.com/nexa-suite/mobile)
 
-Mobile client repository: partial unmerged Operations Android/Kotlin/Jetpack
-Compose evidence; Buyer Mobile remains an accepted Flutter/Dart target.
+Mobile client repository: partial Operations Android/Kotlin/Jetpack Compose
+implementation evidence is integrated in its current baseline; this is not a
+completed Mobile V1. Buyer Mobile remains an accepted Flutter/Dart target.
 
 ![Operations Android](https://img.shields.io/badge/Operations%20Mobile-partial%20evidence-3DDC84?style=flat-square&logo=android&logoColor=white) ![Buyer target](https://img.shields.io/badge/Buyer%20Mobile-TARGET%20Flutter%2FDart-64748B?style=flat-square)
 
